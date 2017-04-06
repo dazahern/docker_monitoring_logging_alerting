@@ -1,3 +1,5 @@
+I cannot thank uschtwill enough for making this! You have saved me weeks of hair loss! Thank you :o) 
+
 If you have any feedback regarding this monitoring/logging/alerting suite, any ideas for improvement, fixes, questions or comments, please feel free to contact me or do a PR!
 
 ### What is this?
